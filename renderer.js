@@ -6,4 +6,3 @@ const callPing = async () => {
   const debug = document.getElementById('debug');
   debug.innerText = response;
 }
-callPing();
